@@ -1,5 +1,5 @@
-#CryptoAnalyzer
-A complete Python project for analyzing Bitcoin price data and forecasting future prices using Facebook's Prophet model with a Flask web application.
+cryptoanalyzer
+
 ##  Quick Start
 
 ### 1. Install Dependencies
